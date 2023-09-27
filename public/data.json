@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/5Yzwjnv/introduction-to-programming.png",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming with this introductory course.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/NNPxn3P/web.jpg",
+        "title": "Web Development",
+        "description": "Get started with web development and build your first website.",
+        "price": 59.99,
+        "credit": 4
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/n8Ld7GC/data-science.jpg",
+        "title": "Data Science Essentials",
+        "description": "Explore the fundamentals of data science and data analysis.",
+        "price": 69.99,
+        "credit": 5
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/4sBP08C/machine.jpg",
+        "title": "Machine Learning Mastery",
+        "description": "Master machine learning techniques and algorithms.",
+        "price": 79.99,
+        "credit": 6
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/pXBZsZR/marketting.jpg",
+        "title": "Digital Marketing Strategies",
+        "description": "Learn effective digital marketing strategies for online success.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/5BrkYvj/graphics.jpg",
+        "title": "Graphic Design Fundamentals",
+        "description": "Unlock your creativity with the basics of graphic design.",
+        "price": 59.99,
+        "credit": 4
+      },
+      {
+        "id": 7,
+        "image": "https://i.ibb.co/YTLGRmw/financial.jpg",
+        "title": "Financial Planning",
+        "description": "Plan for your financial future and make smart investment choices.",
+        "price": 69.99,
+        "credit": 5
+      },
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/rsRKszg/enter.jpg",
+        "title": "Entrepreneurship 101",
+        "description": "Learn the essentials of starting and running a successful business.",
+        "price": 79.99,
+        "credit": 6
+      },
+      {
+        "id": 9,
+        "image": "https://i.ibb.co/BtfP8vD/ar.png",
+        "title": "Artificial Intelligence & Ethics",
+        "description": "Explore the ethical considerations in the field of artificial intelligence.",
+        "price": 59.99,
+        "credit": 4
+      }
+]
+  
